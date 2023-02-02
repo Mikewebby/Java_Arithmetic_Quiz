@@ -3,7 +3,7 @@ package java1.michaelellislab6;
 import java.util.Scanner;
 
 /**
- *
+ * Project created on
  * @author Michael Ellis
  */
 public class MichaelEllisLab6 
